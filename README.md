@@ -7,10 +7,13 @@ A high-level simple, versatile python program to help identify small and simple 
 # Basic Use
 Some basic commands are:
 ```
-e_log
+e_log()
+s_log()
+de_log()
 ```
 For more information and troubleshooting, head to the wiki.
-[[wiki]]
+
+[Pine Wiki](https://github.com/wesmags/Pine-Profiler/wiki)
 
 Projects it's used in:
 
