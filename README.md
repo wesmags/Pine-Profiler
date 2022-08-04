@@ -9,6 +9,8 @@ Some basic commands are:
 ```
 e_log
 ```
+For more information and troubleshooting, head to the wiki.
+[[wiki]]
 
 Projects it's used in:
 
